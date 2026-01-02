@@ -13,7 +13,7 @@ O projeto também conta com um **frontend simples e funcional**, desenvolvido pa
 
 ---
 
-## 🎯 Objetivo do projeto
+## Objetivo do projeto
 
 - Treinar o uso do **Fastify** em APIs REST
 - Utilizar **Mongoose** como ORM no lugar do Prisma
@@ -25,7 +25,7 @@ O projeto também conta com um **frontend simples e funcional**, desenvolvido pa
 
 ---
 
-## 🧱 Tecnologias utilizadas
+## Tecnologias utilizadas
 
 ### Backend
 - Node.js
@@ -43,7 +43,7 @@ O projeto também conta com um **frontend simples e funcional**, desenvolvido pa
 
 ---
 
-## ✅ Funcionalidades
+## Funcionalidades
 
 - Cadastro de clientes
 - Listagem de clientes
@@ -53,18 +53,9 @@ O projeto também conta com um **frontend simples e funcional**, desenvolvido pa
 
 ---
 
-## 🛣️ Rotas da API (exemplo)
+## Rotas da API (exemplo)
 
 - `GET /customers` → lista clientes
 - `POST /customers` → cria um novo cliente
 - `PUT /customers/:id` → atualiza um cliente
 - `DELETE /customers/:id` → remove um cliente
-
----
-
-## 🚀 Como rodar o projeto localmente
-
-### 1) Clonar o repositório
-```bash
-git clone https://github.com/Carlosdede/CustomerAPI.git
-cd CustomerAPI
